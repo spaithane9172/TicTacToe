@@ -1,9 +1,5 @@
 # 🎮 Tic Tac Toe Game
 
-<p align="center">
-  <img src="Simpback.png" alt="Tic Tac Toe Background" width="500">
-</p>
-
 <h2 align="center">A Python Desktop Game</h2>
 
 <p align="center">
@@ -147,9 +143,3 @@ Tictac/
 **Sachin Paithane**
 
 Python desktop application project created to practice GUI development and game logic.
-
----
-
-<p align="center">
-  Made with ❤️ using Python
-</p>
